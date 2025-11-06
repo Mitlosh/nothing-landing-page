@@ -20,21 +20,27 @@ Follow these steps to run the project locally:
 
 # Clone the repository
 
+```
 git clone https://github.com/Mitlosh/nothing-landing-page.git
 cd nothing-landing-page
+```
 
 # Install dependencies
 
+```
 npm install
 
 # or
 
 yarn install
+```
 
 # Run the project locally
 
+```
 npm start
 
 # or
 
 yarn start
+```
